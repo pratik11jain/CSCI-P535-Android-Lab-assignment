@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="reset">Reset</string>
+    <string name="cat_a">Category A</string>
+    <string name="cat_b">Category B</string>
+    <string name="cat_c">Category C</string>
+    <string name="default_question">Question</string>
+    <string name="radiobuttona">RadioButtonA</string>
+    <string name="radiobuttonb">RadioButtonB</string>
+    <string name="radiobuttonc">RadioButtonC</string>
+    <string name="radiobuttond">RadioButtonD</string>
+    <string name="score">Score</string>
+    <string name="_0">0</string>
+    <string name="next">Next</string>
+    <string name="submit">submit</string>
+    <string name="previous">Previous</string>
+</resources>
